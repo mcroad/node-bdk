@@ -1,0 +1,20 @@
+{
+  "name": "@bdk/core-win32-x64-msvc",
+  "version": "0.0.0",
+  "os": [
+    "win32"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "bdk.win32-x64-msvc.node",
+  "files": [
+    "bdk.win32-x64-msvc.node"
+  ],
+  "description": "BDK bindings for node",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "https://github.com/mcroad/node-bdk"
+}

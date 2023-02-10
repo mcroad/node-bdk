@@ -1,0 +1,20 @@
+{
+  "name": "@bdk/core-darwin-x64",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "bdk.darwin-x64.node",
+  "files": [
+    "bdk.darwin-x64.node"
+  ],
+  "description": "BDK bindings for node",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "https://github.com/mcroad/node-bdk"
+}

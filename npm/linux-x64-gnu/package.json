@@ -1,0 +1,23 @@
+{
+  "name": "@bdk/core-linux-x64-gnu",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "bdk.linux-x64-gnu.node",
+  "files": [
+    "bdk.linux-x64-gnu.node"
+  ],
+  "description": "BDK bindings for node",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "https://github.com/mcroad/node-bdk",
+  "libc": [
+    "glibc"
+  ]
+}
