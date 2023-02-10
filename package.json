@@ -38,5 +38,10 @@
   },
   "packageManager": "yarn@3.4.1",
   "repository": "https://github.com/mcroad/node-bdk",
-  "description": "BDK bindings for node"
+  "description": "BDK bindings for node",
+  "optionalDependencies": {
+    "bdk-win32-x64-msvc": "0.0.0",
+    "bdk-darwin-x64": "0.0.0",
+    "bdk-linux-x64-gnu": "0.0.0"
+  }
 }
