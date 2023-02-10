@@ -1,5 +1,5 @@
 {
-  "name": "@bdk/core",
+  "name": "bdk",
   "version": "0.0.0",
   "type": "commonjs",
   "main": "index.js",

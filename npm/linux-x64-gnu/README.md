@@ -1,3 +1,3 @@
-# `@bdk/core-linux-x64-gnu`
+# `bdk-linux-x64-gnu`
 
-This is the **x86_64-unknown-linux-gnu** binary for `@bdk/core`
+This is the **x86_64-unknown-linux-gnu** binary for `bdk`

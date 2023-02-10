@@ -1,5 +1,5 @@
 {
-  "name": "@bdk/core-linux-x64-gnu",
+  "name": "bdk-linux-x64-gnu",
   "version": "0.0.0",
   "os": [
     "linux"

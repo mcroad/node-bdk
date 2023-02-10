@@ -15,7 +15,7 @@ Inspired by [bdk-nodejs](https://github.com/danielabrozzoni/bdk-nodejs) and a we
 ## Example
 
 ```ts
-import { ElectrumBlockchain, Wallet, Network } from '@bdk/core';
+import { ElectrumBlockchain, Wallet, Network } from 'bdk';
 
 const wallet = new Wallet(
   'wpkh([c258d2e4/84h/1h/0h]tpubDDYkZojQFQjht8Tm4jsS3iuEmKjTiEGjG6KnuFNKKJb5A6ZUCUZKdvLdSDWofKi4ToRCwb9poe1XdqfUnP4jaJjCB2Zwv11ZLgSbnZSNecE/0/*)',

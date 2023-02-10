@@ -1,5 +1,5 @@
 {
-  "name": "@bdk/core-darwin-x64",
+  "name": "bdk-darwin-x64",
   "version": "0.0.0",
   "os": [
     "darwin"

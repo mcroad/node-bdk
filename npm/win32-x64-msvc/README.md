@@ -1,3 +1,3 @@
-# `@bdk/core-win32-x64-msvc`
+# `bdk-win32-x64-msvc`
 
-This is the **x86_64-pc-windows-msvc** binary for `@bdk/core`
+This is the **x86_64-pc-windows-msvc** binary for `bdk`

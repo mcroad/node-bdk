@@ -1,3 +1,3 @@
-# `@bdk/core-darwin-x64`
+# `bdk-darwin-x64`
 
-This is the **x86_64-apple-darwin** binary for `@bdk/core`
+This is the **x86_64-apple-darwin** binary for `bdk`
